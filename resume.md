@@ -1,5 +1,5 @@
 # Matthew Yoshimoto
-## I'm a student at UC Berkeley studying history and journalism.
+## I'm a student at UC Berkeley studying history and journalism
 
 !['My dog Bailey','My dog Bailey lays on the bed'](/bailey.jpg)<br/>
 *Image of my dog Bailey laying on the bed*
