@@ -1,14 +1,14 @@
 # Matthew Yoshimoto
 ## I'm a student at UC Berkeley studying history and journalism.
 
-!['My dog Bailey','My dog Bailey lays on the bed'](/bailey.jpeg)<br/>
+!['My dog Bailey','My dog Bailey lays on the bed'](/bailey.jpg)<br/>
 *Image of my dog Bailey laying on the bed*
 
 ## Skills
 1.  Research
 2.  Marketing
-3.  Data Analytics
-
+3.  Proficient in Flourish
+<br/>
 
 | party       	| 2016 	| 2017 	| 2018 	| 2019 	| 2020 	| 2021 	| 2022 	| 2023 	| Grand Total 	|
 |-------------	|-----:	|-----:	|-----:	|-----:	|-----:	|-----:	|-----:	|-----:	|-------------	|
