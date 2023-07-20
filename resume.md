@@ -10,11 +10,8 @@
 3.  Proficient in Flourish
 <br/>
 
-| party       	| 2016 	| 2017 	| 2018 	| 2019 	| 2020 	| 2021 	| 2022 	| 2023 	| Grand Total 	|
-|-------------	|-----:	|-----:	|-----:	|-----:	|-----:	|-----:	|-----:	|-----:	|-------------	|
-| dem         	|    8 	|   21 	|   26 	|   17 	|   21 	|  117 	|   16 	|   16 	|         242 	|
-| ind         	|      	|      	|      	|    1 	|      	|      	|    0 	|      	|           1 	|
-| rep         	|    0 	|    2 	|    1 	|    3 	|   94 	|   92 	|   90 	|   15 	|         297 	|
-| Grand Total 	|    8 	|   23 	|   27 	|   21 	|  115 	|  209 	|  106 	|   31 	|         540 	|
-
-[Table generator](https://www.tablesgenerator.com/markdown_tables)
+| Employer              	| Job Description                                                                                                                                                                                                        	|
+|-----------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| The Daily Californian 	| *  Investigate breaking stories about the local business and economy<br>*  Interview influential campus, university, and city leaders<br>*  Collaborate with staff and hone ability to work well under tight deadlines 	|
+| Reading Partners      	| *  Developed instructional projects for team and headed team organization<br>*  Created marketing projects to support new program members<br>*  Attended weekly region-wide meetings with other interns                	|
+| Campbell Museums      	| *  Collaborate with collections specialist to promote history through online archives<br>*  Develop long term project about biographical and genealogical information                                                  	|
