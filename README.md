@@ -1,2 +1,3 @@
-# J124
-Intro to Data Journalism Markdown practice resume.
+# Matthew Yoshimoto
+## I'm a student at UC Berkeley studying history and journalism.
+
